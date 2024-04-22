@@ -49,14 +49,14 @@ nav ul li a {
 }
 
 #home p {
-    color: #f1c40f;
+    color: #e4915a;
     font-size: 18px;
 }
 
 #home button {
     font-size: 18px;
     padding: 10px 20px;
-    background-color: #f1c40f;
+    background-color: #e4915a;
     border: none;
     color: white;
     cursor: pointer;

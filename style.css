@@ -38,7 +38,7 @@ nav ul li a {
 #home {
     text-align: center;
     padding: 50px 20px;
-    background-image: url('images/RunThru Logo.png'); /* Replace with your actual image path */
+    background-image: url('Images/RunThruLogo.png'); /* Replace with your actual image path */
     background-size: cover;
     color: #ffffff;
 }

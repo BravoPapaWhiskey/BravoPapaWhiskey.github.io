@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RunThru</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Updated image source path to point to "RunThru Mark.png" in the images folder -->
+        <img src="images/RunThru Mark.png" alt="RunThru Logo">
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#signup">Sign Up</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <h1>Practice your job interviews with RunThru</h1>
+        <p>Improve your chances of getting hired with our mock interview tool.</p>
+        <button onclick="window.location='#signup';">Try RunThru Now</button>
+    </section>
+    <section id="features">
+        <h2>How RunThru can help you</h2>
+        <!-- Feature details go here -->
+    </section>
+    <section id="testimonials">
+        <h2>What our users say</h2>
+        <!-- Testimonials go here -->
+    </section>
+    <footer>
+        <p>Contact us at <a href="mailto:support@runthru.com">support@runthru.com</a></p>
+    </footer>
+</body>
+</html>

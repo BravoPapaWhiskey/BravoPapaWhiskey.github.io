@@ -1,0 +1,89 @@
+/* General body styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+/* Header styles */
+header {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header img {
+    height: 50px; /* Adjust based on your logo's dimensions */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Hero section styles */
+#home {
+    text-align: center;
+    padding: 50px 20px;
+    background-image: url('your-hero-image.jpg'); /* Replace with your actual image path */
+    background-size: cover;
+    color: #ffffff;
+}
+
+#home h1 {
+    color: #3498db;
+    font-size: 36px;
+}
+
+#home p {
+    color: #f1c40f;
+    font-size: 18px;
+}
+
+#home button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #f1c40f;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+/* Features section styles */
+#features {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Testimonials section styles */
+#testimonials {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+footer a {
+    color: #f1c40f;
+}

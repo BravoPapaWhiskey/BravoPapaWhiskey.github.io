@@ -71,10 +71,15 @@ nav ul li a {
 
 /* Testimonials section styles */
 #testimonials {
-    background-color: #d4e5eb;
+    background-color: #d4e5eb; /* Light blue background */
     padding: 20px;
     text-align: center;
 }
+
+#testimonials h2 {
+    color: #d4e5eb; 
+}
+
 
 /* Footer styles */
 footer {

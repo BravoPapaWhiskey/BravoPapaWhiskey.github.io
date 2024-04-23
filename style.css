@@ -77,8 +77,30 @@ nav ul li a {
 }
 
 #testimonials h2 {
-    color: #2b4c65; 
+    color: #2b4c65;
 }
+
+.testimonial {
+    background-color: #ffffff; /* White background for each testimonial */
+    padding: 15px;
+    margin: 10px auto;
+    border-radius: 8px; /* Rounded corners for the testimonial blocks */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+    max-width: 80%; /* Limiting width for better readability */
+}
+
+.testimonial p {
+    font-style: italic; /* Italicize the testimonial text */
+    color: #333; /* Dark grey color for text */
+}
+
+.testimonial cite {
+    display: block;
+    margin-top: 10px; /* Space above the citation */
+    color: #2b4c65; /* Matching the section heading color */
+    font-weight: bold; /* Makes the citation bold */
+}
+
 
 
 /* Footer styles */
